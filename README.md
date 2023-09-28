@@ -40,3 +40,5 @@ lat="14.6558441" lon="121.0295923"
 ## Useful link
 
 - https://www.groovypost.com/howto/export-google-maps-route-data/
+- https://mapstogpx.com/
+- https://www.google.com/maps/
