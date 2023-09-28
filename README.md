@@ -6,7 +6,7 @@ This shell script processes GPX files and extracts latitude and longitude coordi
 
 Before using this script, make sure you have the following:
 
-- GPX files in the `raw_gpx` folder.
+- GPX files in the `raw_gpx` and `new_tracks` folder.
 - Bash shell environment.
 
 ## Usage
