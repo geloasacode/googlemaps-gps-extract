@@ -35,3 +35,8 @@ lat="14.6558441" lon="121.0295923"
 
 - For educational purposes only.
 - A personalized script
+
+
+##Useful link
+
+- https://www.groovypost.com/howto/export-google-maps-route-data/
